@@ -30,6 +30,7 @@ See https://github.com/musa-611-fall-2022/class-dossier for instructions.
 
 * Ensure that you have a [GitHub account](https://join.slack.com/t/musa611/signup)
 * Sign up for the class [Slack organization](https://join.slack.com/t/musa611/signup)
+* Complete days 1-4 of [30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) in preparation for our next session
 
 ## Resources
 
