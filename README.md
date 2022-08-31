@@ -12,10 +12,19 @@
    * You'll be building projects
    * You'll have skill-based reference material
 1. Course resources review
-   * Syllabus
-   * GitHub organization
+   * [Syllabus](https://github.com/musa-611-fall-2022/course-info)
+   * [GitHub organization](https://github.com/musa-611-fall-2022)
+1. Installing tools we'll need
+   * Browser
+   * Code editor
+   * Terminal
+   * Git client
+   * Slack
+1. [Intro to core web technologies](https://docs.google.com/presentation/d/1uGfWNW4GCa3nSscfW1Qd43RTILq40TxzMSV55PmatNM/edit?usp=sharing)
 
-## First Project -- Portfolio & Class Dossier
+## First "Project" -- Portfolio & Class Dossier
+
+See https://github.com/musa-611-fall-2022/class-dossier for instructions.
 
 ## Additional Tasks
 
